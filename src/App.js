@@ -9,6 +9,7 @@ function App() {
         <h3>Bonne Chance Mes amis</h3>
         <h4>Gerer Stock</h4>
         <h1>stock sortie</h1>
+        <h2>bilan suivi </h2>
       </header>
     </div>
   );
