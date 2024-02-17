@@ -7,6 +7,7 @@ function App() {
         <h1>Gestion de stock</h1>
         <h2>Groupe TTC 2024</h2>
         <h3>Bonne Chance Mes amis</h3>
+        <h4>Gerer Stock</h4>
       </header>
     </div>
   );
