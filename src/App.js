@@ -12,6 +12,7 @@ function App() {
         <h2>bilan suivi </h2>
         <h3>Stock Entrer</h3>
         <h1>PSV 6</h1>
+        <h1>Modifier Stock</h1>
       </header>
     </div>
   );
