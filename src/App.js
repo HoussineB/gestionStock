@@ -10,6 +10,7 @@ function App() {
         <h4>Gerer Stock</h4>
         <h1>stock sortie</h1>
         <h2>bilan suivi </h2>
+        <h3>Stock Entrer</h3>
       </header>
     </div>
   );
