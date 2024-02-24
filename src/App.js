@@ -1,6 +1,8 @@
 import "./App.css";
 import Title from "./sheard/Title";
 import TaskList from "./sheard/TaskList";
+import NavBar from "./sheard/NavBar";  
+
 function App() {
   const tasksList = [
     { id: 1, title: "Faire les coures", completed: true },
